@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Edwin Edjokpa</h1>
-<h3 align="center">An enthusiastic Backend Developer from Nigeria</h3>
+<h3 align="center">A passionate and addicted Backend Developer from Nigeria</h3>
 
 - 📫 How to reach me **edjokpaedwin@gmail.com**
+- ⚡ Fun fact **I love anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
