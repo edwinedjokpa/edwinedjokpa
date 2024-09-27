@@ -1,6 +1,5 @@
 * 👋 Hello, I’m Edwin Edjokpa.
 * 👀 I am interested in Backend Engineering/Developement.
-* 🔭 I’m currently a freelancer...
 * 🌱 Experienced (intermediate) with NodeJS, ExpressJS, NestJS,Typescript, MongoDB, PostgreSQL, MySQL and Redis.
 * 👯 I am available for open source contributions/collaborations and Backend gigs, remote or on-site.
 - 📫 How to reach me **edjokpaedwin@gmail.com**
