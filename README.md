@@ -67,8 +67,25 @@
 
 ### :fire: My Stats :
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=radical&background=000000)
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <!-- GitHub Stats -->
+  <div>
+    <a href="https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=radical&background=000000">
+      <img src="https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=radical&background=000000" alt="GitHub Stats" />
+    </a>
+  </div>
+  
+  <!-- GitHub Streak -->
+  <div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=edwinedjokpa&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=edwinedjokpa&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinedjokpa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- Top Languages -->
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinedjokpa&layout=compact&theme=radical" alt="Top Languages" />
+    </a>
+  </div>
+</div>
