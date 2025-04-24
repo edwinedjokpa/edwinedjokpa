@@ -67,8 +67,8 @@
 
 ### :fire: My Stats :
 
-<!-- ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=radical&background=000000)
- -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edwinedjokpa&theme=radical&background=000000)](https://git.io/streak-stats)
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=radical&background=000000)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=edwinedjokpa&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinedjokpa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
