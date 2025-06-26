@@ -1,14 +1,13 @@
-* 👋 Hello, I’m Edwin Edjokpa.  
-* 👀 I am interested in Backend Engineering/Development.  
-* 🌱 Experienced with NodeJS, ExpressJS, NestJS, TypeScript, MongoDB, PostgreSQL, MySQL, and Redis.  
-* 👯 I am available for open-source contributions/collaborations and Backend gigs, remote or on-site.  
-- 📫 How to reach me **edjokpaedwin@gmail.com**  
-- ⚡ Fun fact **I love anime and games**
+- 👋 Hello, I’m Edwin Edjokpa.  
+- 👀 I am interested in Backend Engineering/Development.  
+- 🌱 Experienced with NodeJS, ExpressJS, NestJS, TypeScript, MongoDB, PostgreSQL, MySQL, and Redis.  
+- 👯 I am available for open-source contributions/collaborations and Backend gigs, remote or on-site.  
+- ⚡ Fun fact **I love anime and games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/edwinedjokpa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwinedjokpa" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwinedjokpa" height="40" width="40" />
   </a>
 </p>
 
