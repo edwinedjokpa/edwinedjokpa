@@ -172,22 +172,22 @@
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- GitHub Stats -->
   <div style="flex: 1; display: flex; justify-content: center; align-items: center; max-width: 500px;">
-    <a href="https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
+    <a href="https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=gotham&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
     </a>
   </div>
 
   <!-- GitHub Streak -->
   <div style="flex: 1; display: flex; justify-content: center; align-items: center; max-width: 500px;">
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=edwinedjokpa&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
+      <img src="https://streak-stats.demolab.com?user=edwinedjokpa&theme=gotham&hide_border=true" alt="GitHub Streak" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
     </a>
   </div>
 
   <!-- Top Languages -->
   <div style="flex: 1; display: flex; justify-content: center; align-items: center; max-width: 500px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinedjokpa&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinedjokpa&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
     </a>
   </div>
 </div>
