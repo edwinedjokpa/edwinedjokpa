@@ -1,9 +1,9 @@
 * 👋 Hello, I’m Edwin Edjokpa.  
 * 👀 I am interested in Backend Engineering/Development.  
-* 🌱 Experienced (intermediate) with NodeJS, ExpressJS, NestJS, TypeScript, MongoDB, PostgreSQL, MySQL, and Redis.  
+* 🌱 Experienced with NodeJS, ExpressJS, NestJS, TypeScript, MongoDB, PostgreSQL, MySQL, and Redis.  
 * 👯 I am available for open-source contributions/collaborations and Backend gigs, remote or on-site.  
 - 📫 How to reach me **edjokpaedwin@gmail.com**  
-- ⚡ Fun fact **I love anime**
+- ⚡ Fun fact **I love anime and games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
