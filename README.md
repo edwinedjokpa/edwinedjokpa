@@ -1,15 +1,28 @@
-- 👋 Hello, I’m Edwin Edjokpa.  
-- 👀 I am interested in Backend Engineering/Development.  
-- 🌱 Experienced with NodeJS, ExpressJS, NestJS, TypeScript, MongoDB, PostgreSQL, MySQL, and Redis.  
-- 👯 I am available for open-source contributions/collaborations and Backend gigs, remote or on-site.  
-- ⚡ Fun fact **I love anime and games.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/edwinedjokpa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwinedjokpa" height="40" width="40" />
-  </a>
+---
+
+# 👨‍💻 HI, I'm Edwin Edjokpa
+
+**Software Engineer | Backend Development & API Design | Scalable Systems | JavaScript, TypeScript, C# | Cloud & DevOps.**
+
+---
+
+## 🚀 About Me
+<p align="justify">
+  Hi, I'm Edwin, a backend-focused software engineer passionate about building scalable, high-performance systems that solve real-world problems. 
+  I specialize in JavaScript/TypeScript (Node.js, Express.js, NestJS), and C# (.NET Core), with solid experience designing and implementing backend architectures that power reliable, cloud-native applications.
 </p>
+
+<p align="justify">
+  With a strong foundation in cloud technologies and DevOps practices, I take pride in delivering robust software solutions that are easy to maintain, integrate, and scale. 
+  From system design to deployment and continuous delivery, I enjoy tackling complex backend and infrastructure challenges that require thoughtful engineering and a performance-first mindset.
+</p>
+
+<p align="justify">
+  I'm always looking to collaborate on impactful projects and push the boundaries of backend systems.
+</p>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> 
