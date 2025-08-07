@@ -10,7 +10,7 @@
 ## 🚀 About Me
 <p align="justify">
   Hi, I'm Edwin, a backend-focused software engineer passionate about building scalable, high-performance systems that solve real-world problems. 
-  I specialize in JavaScript/TypeScript (Node.js, Express.js, NestJS), and C# (.NET Core), with solid experience designing and implementing backend architectures that power reliable, cloud-native applications.
+  I specialize in JavaScript/TypeScript (Node.js, Express.js, NestJS), Golang (Gin, Fiber) and C# (.NET Core), with solid experience designing and implementing backend architectures that power reliable, cloud-native applications.
 </p>
 
 <p align="justify">
