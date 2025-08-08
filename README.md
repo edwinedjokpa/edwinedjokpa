@@ -1,22 +1,22 @@
 <h1 align="center">👨‍💻 Hi, I'm Edwin Edjokpa</h1>
 
 <p align="center">
-  <em><strong>Software Engineer</strong> • Backend & API Development • Cloud-Native Systems • DevOps Enthusiast</em>
+  <em><strong>Software Engineer</strong> • Backend Development & API Design • Cloud-Native Systems • DevOps Enthusiast</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<p> Hi, I'm <strong>Edwin</strong>, a backend-focused software engineer passionate about building scalable, high-performance systems that solve real-world problems. </p> 
-<p> I specialize in <strong>JavaScript/TypeScript</strong> (Node.js, Express.js, NestJS), <strong>Golang</strong>, and <strong>C# (.NET Core)</strong> with experience in: </p>
+<p align="justify"> Hi, I'm <strong>Edwin</strong>, a backend-focused software engineer passionate about building scalable, high-performance systems that solve real-world problems. </p> 
+<p align="justify"> I specialize in <strong>JavaScript/TypeScript</strong> (Node.js, Express.js, NestJS), <strong>Golang</strong>, and <strong>C# (.NET Core)</strong> with experience in: </p>
 
 - 🧱 Architecting RESTful & GraphQL APIs
 - ☁️ Deploying cloud-native services (AWS, Docker, Kubernetes)
 - 🔁 Implementing DevOps pipelines (CI/CD, GitHub Actions, CircleCI, Jenkins)
 - 🧪 Writing clean, tested, and maintainable code
 
-<p>I thrive at the intersection of performance, reliability, and scalability — building systems that <strong>grow with your business</strong>.</p>
+<p align="justify"> I thrive at the intersection of performance, reliability, and scalability — building systems that <strong>grow with your business</strong>.</p>
 
 ---
 
