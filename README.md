@@ -1,22 +1,22 @@
 <h1 align="center">👨‍💻 Hi, I'm Edwin Edjokpa</h1>
 
 <p align="center">
-  <em><strong>Software Engineer</strong> • Backend Development & API Design • Cloud-Native Systems • DevOps Enthusiast</em>
+  <em><strong>Software Engineer</strong> • Backend & API Development • Cloud-Native Systems • DevOps Enthusiast</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi, I'm **Edwin**, a backend-focused software engineer passionate about building scalable, high-performance systems that solve real-world problems.  
-I specialize in **JavaScript/TypeScript** (Node.js, Express.js, NestJS), **Golang**, and **C# (.NET Core)** with experience in:
+<p> Hi, I'm <strong>Edwin</strong>, a backend-focused software engineer passionate about building scalable, high-performance systems that solve real-world problems. </p> 
+<p> I specialize in <strong>JavaScript/TypeScript</strong> (Node.js, Express.js, NestJS), <strong>Golang</strong>, and <strong>C# (.NET Core)</strong> with experience in: </p>
 
 - 🧱 Architecting RESTful & GraphQL APIs
 - ☁️ Deploying cloud-native services (AWS, Docker, Kubernetes)
-- 🔁 Implementing DevOps pipelines (CI/CD, Jenkins, CircleCI)
+- 🔁 Implementing DevOps pipelines (CI/CD, GitHub Actions, CircleCI, Jenkins)
 - 🧪 Writing clean, tested, and maintainable code
 
-I thrive at the intersection of performance, reliability, and scalability — building systems that **grow with your business**.
+<p>I thrive at the intersection of performance, reliability, and scalability — building systems that <strong>grow with your business</strong>.</p>
 
 ---
 
@@ -46,15 +46,15 @@ I thrive at the intersection of performance, reliability, and scalability — bu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=gotham&hide_border=true&v1" alt="GitHub Stats" style="width: 80%; height: auto; object-fit: cover; border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=gotham&hide_border=true&v1" alt="GitHub Stats" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edwinedjokpa&theme=gotham&hide_border=true&v1" alt="GitHub Streak" style="width: 80%; height: auto; object-fit: cover; border-radius: 10px;" />
+  <img src="https://streak-stats.demolab.com?user=edwinedjokpa&theme=gotham&hide_border=true&v1" alt="GitHub Streak" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinedjokpa&layout=compact&theme=gotham&hide_border=true&v1" alt="Top Languages" style="width: 80%; height: auto; object-fit: cover; border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinedjokpa&layout=compact&theme=gotham&hide_border=true&v1" alt="Top Languages" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
 </p>
 
 ---
