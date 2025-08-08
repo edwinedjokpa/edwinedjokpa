@@ -32,9 +32,9 @@
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
   <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,kubernetes,jenkins,githubactions" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,kubernetes,githubactions,jenkins" alt="DevOps Tools" />
   <!-- Messaging -->
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,graphql" alt="Messaging & APIs" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,graphql" alt="Messaging & APIs" />
   <!-- Testing -->
   <img src="https://skillicons.dev/icons?i=jest" alt="Testing" />
   <!-- Version Control -->
