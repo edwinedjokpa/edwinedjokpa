@@ -15,6 +15,7 @@
 - ☁️ Deploying cloud-native services (AWS, Docker, Kubernetes)
 - 🔁 Implementing DevOps pipelines (CI/CD, GitHub Actions, CircleCI, Jenkins)
 - 🧪 Writing clean, tested, and maintainable code
+- 🏗️ Designing and implementing **microservices architectures** for scalable and resilient systems
 
 <p align="justify"> I thrive at the intersection of performance, reliability, and scalability — building systems that <strong>grow with your business</strong>.</p>
 
