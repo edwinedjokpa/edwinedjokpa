@@ -26,7 +26,7 @@
    <!-- Basics -->
 <!--   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" alt="Basics" /> -->
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,go,cs,java,py,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,cs,java,py,bash,solidity" alt="Languages" />
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,next,dotnet,spring,fastapi" alt="Frameworks" />
   <!-- Databases -->
