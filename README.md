@@ -29,7 +29,7 @@
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,go,cs,java,py,bash,solidity" alt="Languages" />
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,next,dotnet,spring,fastapi" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,next,angular,dotnet,spring,fastapi" alt="Frameworks" />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
   <!-- Cloud & DevOps -->
