@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <p align="justify"> Hi, I'm <strong>Edwin</strong>, a backend-focused software engineer passionate about building scalable, high-performance systems that solve real-world problems. </p> 
-<p align="justify"> I specialize in <strong>JavaScript/TypeScript</strong> (Node.js, Express.js, NestJS), <strong>Golang</strong>, and <strong>C# (.NET Core)</strong> with experience in: </p>
+<p align="justify"> I specialize in <strong>JavaScript/TypeScript</strong> (Node.js, Express.js, NestJS), <strong>Golang</strong>, and <strong>Java</strong> with experience in: </p>
 
 - 🧱 Architecting RESTful & GraphQL APIs
 - ☁️ Deploying cloud-native services (AWS, Docker, Kubernetes)
@@ -27,9 +27,9 @@
    <!-- Basics -->
 <!--   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" alt="Basics" /> -->
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,go,cs,java,py,bash,solidity" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,java,cs,py,bash,solidity" alt="Languages" />
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,next,angular,dotnet,spring,fastapi" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,next,angular,spring,dotnet,fastapi" alt="Frameworks" />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
   <!-- Cloud & DevOps -->
@@ -39,7 +39,7 @@
   <!-- Testing -->
   <img src="https://skillicons.dev/icons?i=jest" alt="Testing" />
   <!-- Version Control -->
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
 </p>
 
 ---
