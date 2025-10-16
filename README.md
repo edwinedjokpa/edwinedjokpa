@@ -32,14 +32,12 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,next,angular,spring,dotnet" alt="Frameworks" />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,kubernetes,githubactions,jenkins" alt="DevOps Tools" />
-  <!-- Messaging -->
-  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,graphql" alt="Messaging & APIs" />
-  <!-- Testing -->
-  <img src="https://skillicons.dev/icons?i=jest" alt="Testing" />
-  <!-- Version Control -->
+   <!-- Version Control -->
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins" alt="DevOps Tools" />
+  <!-- Messaging -->
+  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" alt="Messaging & APIs" />
 </p>
 
 ---
