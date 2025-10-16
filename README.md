@@ -24,20 +24,18 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-   <!-- Basics -->
-<!--   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" alt="Basics" /> -->
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,go,java,cs,py,bash,solidity" alt="Languages" />
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,next,angular,spring,dotnet" alt="Frameworks" />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
-   <!-- Version Control -->
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
   <!-- Cloud & DevOps -->
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins" alt="DevOps Tools" />
   <!-- Messaging -->
   <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" alt="Messaging & APIs" />
+  <!-- Version Control -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
 </p>
 
 ---
