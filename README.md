@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Hi, I'm Edwin Edjokpa</h1>
 
 <p align="center">
-  <em><strong>Software Engineer</strong> • Backend Development & API Design • Cloud-Native Systems • DevOps Enthusiast</em>
+  <em><strong>Software Engineer (Backend)</strong> • Scalable Systems & API Design • Cloud-Native Systems • DevOps Enthusiast</em>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <p align="justify"> Hi, I'm <strong>Edwin</strong>, a backend-focused software engineer passionate about building scalable, high-performance systems that solve real-world problems. </p> 
-<p align="justify"> I specialize in <strong>JavaScript/TypeScript</strong> (Node.js, Express.js, NestJS), and <strong>Golang</strong> with experience in: </p>
+<p align="justify"> I specialize in <strong>Java, JavaScript, TypeScript</strong>, and <strong>Golang</strong> with experience in: </p>
 
 - 🧱 Architecting RESTful & GraphQL APIs
 - ☁️ Deploying cloud-native services (AWS, Docker, Kubernetes)
