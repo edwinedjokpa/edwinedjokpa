@@ -25,9 +25,9 @@
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,go,java,cs,py,bash,solidity" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,java,cs,bash,solidity" alt="Languages" />
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,next,angular,spring,dotnet" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,angular,react,spring,dotnet" alt="Frameworks" />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
   <!-- Cloud & DevOps -->
