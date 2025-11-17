@@ -27,13 +27,13 @@
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,go,java,cs,bash,solidity" alt="Languages" />
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,angular,react,spring,dotnet" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,angular,spring,dotnet" alt="Frameworks" />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
   <!-- Cloud & DevOps -->
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins" alt="DevOps Tools" />
   <!-- Messaging -->
-  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka" alt="Messaging & APIs" />
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" alt="Messaging & APIs" />
   <!-- Version Control -->
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
 </p>
