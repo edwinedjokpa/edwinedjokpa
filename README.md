@@ -12,7 +12,7 @@
 <p align="justify"> I specialize in <strong>Java, JavaScript, TypeScript</strong>, and <strong>Golang</strong> with experience in: </p>
 
 - 🧱 Architecting RESTful & GraphQL APIs
-- ☁️ Deploying cloud-native services (AWS, Docker, Kubernetes)
+- ☁️ Deploying cloud-native services (Docker, Kubernetes, AWS)
 - 🔁 Implementing DevOps pipelines (CI/CD, GitHub Actions, CircleCI, Jenkins)
 - 🧪 Writing clean, tested, and maintainable code
 - 🏗️ Designing and implementing **microservices architectures** for scalable and resilient systems
