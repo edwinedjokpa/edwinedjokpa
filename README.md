@@ -1,15 +1,15 @@
 <h1 align="center">👨‍💻 Hi, I'm Edwin Edjokpa</h1>
 
 <p align="center">
-  <em><strong>Software Engineer (Backend)</strong> • Scalable Systems & API Design • Cloud-Native Systems • DevOps Enthusiast</em>
+  <em><strong>Software Engineer (Backend)</strong> | Event Driven Systems, Microservices & API Design | Cloud-Native & DevOps</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<p align="justify"> Hi, I'm <strong>Edwin</strong>, a backend-focused software engineer passionate about building scalable, high-performance systems that solve real-world problems. </p> 
-<p align="justify"> I specialize in <strong>Java, JavaScript, TypeScript</strong>, and <strong>Golang</strong> with experience in: </p>
+<p align="justify"> Hi, I'm <strong>Edwin</strong>, a backend-focused software engineer passionate about building scalable, high-performance, distributed, cloud-native systems that solve real-world problems. </p> 
+<p align="justify"> I specialize in <strong>Java and TypeScript</strong> with experience in: </p>
 
 - 🧱 Architecting RESTful & GraphQL APIs
 - ☁️ Deploying cloud-native services (Docker, Kubernetes, AWS)
@@ -27,11 +27,11 @@
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,go,java,cs,bash,solidity" alt="Languages" />
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,angular,spring,dotnet" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,angular,react,nextjs,spring,dotnet" alt="Frameworks" />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
   <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,jenkins" alt="DevOps Tools" />
   <!-- Messaging -->
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" alt="Messaging & APIs" />
   <!-- Version Control -->
