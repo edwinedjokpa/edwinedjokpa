@@ -1,15 +1,16 @@
 <h1 align="center">👨‍💻 Hi, I'm Edwin Edjokpa</h1>
 
 <p align="center">
-  <em><strong>Software Engineer (Backend)</strong> | Event Driven Systems, Microservices & API Design | Cloud-Native & DevOps</em>
+  <em><strong>Software Engineer (Backend)</strong> | Event-Driven Systems, Microservices & API Design | Cloud-Native & DevOps</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<p align="justify"> Hi, I'm <strong>Edwin</strong>, a backend-focused software engineer passionate about building scalable, high-performance, distributed, cloud-native systems that solve real-world problems. </p> 
-<p align="justify"> I specialize in <strong>Java and TypeScript</strong> with experience in: </p>
+<p align="justify"> Hi, I'm <strong>Edwin Edjokpa</strong>, a backend-focused software engineer experienced designing and building scalable, high-performance, distributed cloud-native systems. </p> 
+<p align="justify"> I specialize in <strong>Event-Driven Systems, Microservices, and Scalable API Design (REST and GraphQL)</strong> that solve real-world problems.</p>
+<p align="justify"> My core expertise includes <strong>Java and TypeScript</strong> with experience in: </p>
 
 - 🧱 Architecting RESTful & GraphQL APIs
 - ☁️ Deploying cloud-native services (Docker, Kubernetes, AWS)
@@ -25,9 +26,9 @@
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,go,java,cs,bash,solidity" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,cs,java" alt="Languages" />
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,angular,react,nextjs,spring,dotnet" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,angular,react,nextjs,dotnet,spring" alt="Frameworks" />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
   <!-- Cloud & DevOps -->
