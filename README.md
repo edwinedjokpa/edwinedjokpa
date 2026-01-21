@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <p align="justify"> Hi, I'm <strong>Edwin Edjokpa</strong>, a backend-focused software engineer experienced designing and building scalable, high-performance, distributed cloud-native systems. </p> 
-<p align="justify"> I specialize in <strong>Event-Driven Systems, Microservices, and API Design (REST and GraphQL)</strong> that solve real-world problems.</p>
+<p align="left"> I specialize in <strong>Event-Driven Systems, Microservices, and API Design (REST and GraphQL)</strong> that solve real-world problems.</p>
 
 ---
 
