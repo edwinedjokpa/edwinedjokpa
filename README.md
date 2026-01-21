@@ -10,13 +10,18 @@
 
 <p align="justify"> Hi, I'm <strong>Edwin Edjokpa</strong>, a backend-focused software engineer experienced designing and building scalable, high-performance, distributed cloud-native systems. </p> 
 <p align="justify"> I specialize in <strong>Event-Driven Systems, Microservices, and API Design (REST and GraphQL)</strong> that solve real-world problems.</p>
-<p align="left"> My core expertise includes <strong>Java and TypeScript</strong> with experience in: </p>
 
-- 🧱 Architecting RESTful & GraphQL APIs
-- ☁️ Deploying cloud-native services (Docker, Kubernetes, AWS)
-- 🔁 Implementing DevOps pipelines (CI/CD, GitHub Actions, CircleCI, Jenkins)
-- 🧪 Writing clean, tested, and maintainable code
-- 🏗️ Designing and implementing **Microservices Architectures** for scalable and resilient systems
+---
+
+## 🧩 Core Expertise
+
+<p align="left"> My core expertise includes <strong>Java, C# and TypeScript</strong> with experience in: </p>
+
+- Architecting RESTful & GraphQL APIs.
+- Deploying cloud-native services (Docker, Kubernetes, AWS).
+- Implementing DevOps pipelines (CI/CD, GitHub Actions, CircleCI, Jenkins).
+- Writing clean, tested, and maintainable code.
+- Designing and implementing **Microservices Architectures** for scalable and resilient systems.
 
 <p align="justify"> I thrive at the intersection of performance, reliability, and scalability — building systems that <strong>grow with your business</strong>.</p>
 
@@ -41,38 +46,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Links
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwinedjokpa&show_icons=true&theme=gotham&hide_border=true&v1" alt="GitHub Stats" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=edwinedjokpa&theme=gotham&hide_border=true&v1" alt="GitHub Streak" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinedjokpa&layout=compact&theme=gotham&hide_border=true&v1" alt="Top Languages" style="width: 100%; height: auto; object-fit: cover; border-radius: 10px;" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/edwinedjokpa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
-  </a>
-  <a href="mailto:edwinedjokpa37@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
-  </a>
-</p>
+-   **GitHub:** https://github.com/edwinedjokpa
+-   **LinkedIn:** https://linkedin.com/in/edwinedjokpa
+-   **X (Twitter):** https://x.com/edwinedjokpa
+-   **Email:** edwinedjokpa37@gmail.com
 
 ---
 
 ### 🧠 Fun Fact
 
 > I debug like I’m Sherlock Holmes… but with coffee instead of a pipe ☕🔍
-
----
 
