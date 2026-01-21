@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 <p align="justify"> Hi, I'm <strong>Edwin Edjokpa</strong>, a backend-focused software engineer experienced designing and building scalable, high-performance, distributed cloud-native systems. </p> 
-<p align="justify"> I specialize in <strong>Event-Driven Systems, Microservices, and Scalable API Design (REST and GraphQL)</strong> that solve real-world problems.</p>
-<p align="justify"> My core expertise includes <strong>Java and TypeScript</strong> with experience in: </p>
+<p align="left"> I specialize in <strong>Event-Driven Systems, Microservices, and Scalable API Design (REST and GraphQL)</strong> that solve real-world problems.</p>
+<p align="left"> My core expertise includes <strong>Java and TypeScript</strong> with experience in: </p>
 
 - 🧱 Architecting RESTful & GraphQL APIs
 - ☁️ Deploying cloud-native services (Docker, Kubernetes, AWS)
@@ -26,9 +26,9 @@
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,go,cs,java" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=bash,js,ts,go,cs,java" alt="Languages" />
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,angular,react,nextjs,dotnet,spring" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,vue,angular,react,dotnet,spring" alt="Frameworks" />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
   <!-- Cloud & DevOps -->
