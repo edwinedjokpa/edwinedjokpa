@@ -9,14 +9,14 @@
 ## 🚀 About Me
 
 <p align="justify"> Hi, I'm <strong>Edwin Edjokpa</strong>, a backend-focused software engineer experienced designing and building scalable, high-performance, distributed cloud-native systems. </p> 
-<p align="left"> I specialize in <strong>Event-Driven Systems, Microservices, and Scalable API Design (REST and GraphQL)</strong> that solve real-world problems.</p>
+<p align="justify"> I specialize in <strong>Event-Driven Systems, Microservices, and API Design (REST and GraphQL)</strong> that solve real-world problems.</p>
 <p align="left"> My core expertise includes <strong>Java and TypeScript</strong> with experience in: </p>
 
 - 🧱 Architecting RESTful & GraphQL APIs
 - ☁️ Deploying cloud-native services (Docker, Kubernetes, AWS)
 - 🔁 Implementing DevOps pipelines (CI/CD, GitHub Actions, CircleCI, Jenkins)
 - 🧪 Writing clean, tested, and maintainable code
-- 🏗️ Designing and implementing **microservices architectures** for scalable and resilient systems
+- 🏗️ Designing and implementing **Microservices Architectures** for scalable and resilient systems
 
 <p align="justify"> I thrive at the intersection of performance, reliability, and scalability — building systems that <strong>grow with your business</strong>.</p>
 
