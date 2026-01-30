@@ -15,7 +15,7 @@
 
 ## 🧩 Core Expertise
 
-<p align="left"> My core expertise includes <strong>Java, C# and TypeScript</strong> with experience in: </p>
+<p align="left"> My core expertise includes <strong>C# and TypeScript</strong> with experience in: </p>
 
 - Architecting RESTful & GraphQL APIs.
 - Deploying cloud-native services (Docker, Kubernetes, AWS).
