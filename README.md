@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Hi, I'm Edwin Edjokpa</h1>
 
 <p align="center">
-  <em><strong>Software Engineer (Backend)</strong> | Event-Driven Systems, Microservices & API Design | Cloud-Native & DevOps</em>
+  <em><strong>Software Engineer (Backend)</strong> | Event-Driven Architechture, Microservices & API Design | Cloud-Native & DevOps</em>
 </p>
 
 ---
@@ -9,19 +9,21 @@
 ## 🚀 About Me
 
 <p align="justify"> Hi, I'm <strong>Edwin Edjokpa</strong>, a backend-focused software engineer experienced designing and building scalable, high-performance, distributed cloud-native systems. </p> 
-<p align="left"> I specialize in <strong>Event-Driven Systems, Microservices, and API Design (REST and GraphQL)</strong> that solve real-world problems.</p>
+<p align="left"> I specialize in <strong>Event-Driven Architecture, Microservices, and API Design (REST and GraphQL)</strong> that solve real-world problems.</p>
 
 ---
 
 ## 🧩 Core Expertise
 
-<p align="left"> My core expertise includes <strong>C# and TypeScript</strong> with experience in: </p>
+<p align="left"> My core expertise includes <strong>TypeScript (Node.js)</strong>,  with additional expertise in <strong>Java (Spring Boot) and .NET (C#)</strong>.</p>
+<p align="left">Core strengths includes:</p>
 
 - Architecting RESTful & GraphQL APIs.
-- Deploying cloud-native services (Docker, Kubernetes, AWS).
-- Implementing DevOps pipelines (CI/CD, GitHub Actions, CircleCI, Jenkins).
+- Designing resilient distributed systems.
+- Event-driven system design (messaging, async workflows).
+- Containerization & orchestration (Docker, Kubernetes).
+- Implementing DevOps pipelines (GitHub Actions, CircleCI, Jenkins).
 - Writing clean, tested, and maintainable code.
-- Designing and implementing **Microservices Architectures** for scalable and resilient systems.
 
 <p align="justify"> I thrive at the intersection of performance, reliability, and scalability — building systems that <strong>grow with your business</strong>.</p>
 
@@ -33,7 +35,7 @@
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=bash,js,ts,go,cs,java" alt="Languages" />
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,vue,angular,react,dotnet,spring" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,angular,react,vue,dotnet,spring" alt="Frameworks" />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
   <!-- Cloud & DevOps -->
