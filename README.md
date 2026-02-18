@@ -39,7 +39,7 @@
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
   <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,jenkins" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,jenkins" alt="DevOps Tools" />
   <!-- Messaging -->
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" alt="Messaging & APIs" />
   <!-- Version Control -->
