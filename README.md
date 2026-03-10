@@ -15,7 +15,7 @@
 
 ## 🧩 Core Expertise
 
-<p align="left"> My core expertise includes <strong>TypeScript (Node.js)</strong>,  with additional expertise in <strong>Java (Spring Boot) and .NET (C#)</strong>.</p>
+<p align="left"> My core expertise includes <strong>TypeScript (Node.js)</strong>,  with additional expertise in <strong> .NET (C#) and Java (Spring Boot)</strong>.</p>
 <p align="left">Core strengths includes:</p>
 
 - Architecting RESTful & GraphQL APIs.
