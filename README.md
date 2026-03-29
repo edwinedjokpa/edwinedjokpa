@@ -1,29 +1,28 @@
 <h1 align="center">👨‍💻 Hi, I'm Edwin Edjokpa</h1>
 
 <p align="center">
-  <em><strong>Software Engineer (Backend)</strong> | Event-Driven Architechture, Microservices & API Design | Cloud-Native & DevOps</em>
+  <em><strong>Senior Backend Engineer</strong> | Event-Driven Architecture, Microservices & API Design | Cloud-Native & DevOps</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<p align="justify"> Hi, I'm <strong>Edwin Edjokpa</strong>, a backend-focused software engineer experienced designing and building scalable, high-performance, distributed cloud-native systems. </p> 
-<p align="left"> I specialize in <strong>Event-Driven Architecture, Microservices, and API Design (REST and GraphQL)</strong> that solve real-world problems.</p>
+<p align="justify"> Hi, I'm <strong>Edwin Edjokpa</strong>, a Senior Backend Engineer with over 6 years of experience designing and building high-performance, distributed, cloud-native systems. I specialize in architecting scalable platforms that solve complex, real-world problems at scale.
+</p>
+<p align="left"> My expertise lies at the intersection of <strong>Event-Driven Architecture, Microservices, and API Design (REST & GraphQL)</strong>. I am a firm believer in the DevOps mindset, owning the full lifecycle of the systems I build—from initial system design and hands-on implementation to CI/CD automation, observability, and infrastructure scaling on AWS.
+</p>
 
 ---
 
 ## 🧩 Core Expertise
 
-<p align="left"> My core expertise includes <strong>TypeScript (Node.js)</strong>,  with additional expertise in <strong> .NET (C#) and Java (Spring Boot)</strong>.</p>
-<p align="left">Core strengths includes:</p>
-
-- Architecting RESTful & GraphQL APIs.
-- Designing resilient distributed systems.
-- Event-driven system design (messaging, async workflows).
-- Containerization & orchestration (Docker, Kubernetes).
-- Implementing DevOps pipelines (GitHub Actions, CircleCI, Jenkins).
-- Writing clean, tested, and maintainable code.
+- <strong>Languages & Frameworks:</strong> Expert in TypeScript (Node.js/NestJS), with deep professional experience in Java (Spring Boot) and .NET (C#). 
+- <strong>Architectural Design:</strong> Resilient distributed systems, Multi-tenant SaaS patterns, and Event-driven workflows (Messaging, Async).
+- <strong>Backend Engineering:</strong> High-performance Microservices and robust API platforms (REST & GraphQL).
+- <strong>Cloud & Infrastructure:</strong> AWS Architecture, Infrastructure as Code (IaC), and performance optimization.
+- <strong>Containerization & Orchestration:</strong> Deep expertise in Docker and Kubernetes for scalable deployments.
+- <strong>Engineering Excellence:</strong> Writing clean, tested, and maintainable code engineered for long-term growth.
 
 <p align="justify"> I thrive at the intersection of performance, reliability, and scalability — building systems that <strong>grow with your business</strong>.</p>
 
