@@ -10,7 +10,7 @@
 
 <p align="justify"> Hi, I'm <strong>Edwin Edjokpa</strong>, a Senior Backend Engineer with over 6 years of experience designing and building high-performance, distributed, cloud-native systems. I specialize in architecting scalable platforms that solve complex, real-world problems at scale.
 </p>
-<p align="left"> My expertise lies at the intersection of <strong>Event-Driven Architecture, Microservices, and API Design (REST & GraphQL)</strong>. I am a firm believer in the DevOps mindset, owning the full lifecycle of the systems I build—from initial system design and hands-on implementation to CI/CD automation, observability, and infrastructure scaling on AWS.
+<p align="justify"> My expertise lies at the intersection of <strong>Event-Driven Architecture, Microservices, and API Design (REST & GraphQL)</strong>. I am a firm believer in the DevOps mindset, owning the full lifecycle of the systems I build—from initial system design and hands-on implementation to CI/CD automation, observability, and infrastructure scaling on AWS.
 </p>
 
 ---
